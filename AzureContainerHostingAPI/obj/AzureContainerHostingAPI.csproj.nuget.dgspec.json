@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Homeware\\Source\\Web_APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj": {}
+    "C:\\Homeware\\DOTNET-CORE-APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Homeware\\Source\\Web_APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj": {
+    "C:\\Homeware\\DOTNET-CORE-APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Homeware\\Source\\Web_APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj",
+        "projectUniqueName": "C:\\Homeware\\DOTNET-CORE-APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj",
         "projectName": "AzureContainerHostingAPI",
-        "projectPath": "C:\\Homeware\\Source\\Web_APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj",
+        "projectPath": "C:\\Homeware\\DOTNET-CORE-APIs\\AzureContainerHostingAPI\\AzureContainerHostingAPI.csproj",
         "packagesPath": "C:\\Users\\frq210\\.nuget\\packages\\",
-        "outputPath": "C:\\Homeware\\Source\\Web_APIs\\AzureContainerHostingAPI\\obj\\",
+        "outputPath": "C:\\Homeware\\DOTNET-CORE-APIs\\AzureContainerHostingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frq210\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "WatchDog.net": {
+              "target": "Package",
+              "version": "[1.4.3, )"
             }
           },
           "imports": [
